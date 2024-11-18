@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a Vaishnavi Chandrashekar 
+
+I am software developer.
 <!--
 **Vaishnavi199809/Vaishnavi199809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
